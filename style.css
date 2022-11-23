@@ -1,0 +1,30 @@
+body {
+  	background-color: #FCE2C5;
+}
+h1 {
+  	color: #17A1F5;
+	font-family: verdana;
+}
+h2 {
+	color: #B109D1;
+	font-family: verdana;
+}	
+p {
+  	color: #06BEC2;
+	font-family: verdana;
+	font-size: 20px;
+}
+figcaption {
+	color: #680483;
+	font-family: verdana;
+	font-size: 20px;
+}
+label {
+	font-family: tahoma;
+	font-size: 13px;	
+}
+footer {
+	text-align: right;
+	color: white;
+	font-size: 10px;
+}
